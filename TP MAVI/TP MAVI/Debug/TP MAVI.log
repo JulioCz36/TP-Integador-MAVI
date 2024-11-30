@@ -1,0 +1,12 @@
+﻿  Partida.cpp
+C:\Users\Julio\Documents\TDPV\1 - Cuatri_2\MAVI\Practicas\TP\TP MAVI\TP MAVI\Partida.cpp(74,46): warning C4244: 'argumento': conversión de 'double' a 'T'; posible pérdida de datos
+C:\Users\Julio\Documents\TDPV\1 - Cuatri_2\MAVI\Practicas\TP\TP MAVI\TP MAVI\Partida.cpp(74,46): warning C4244:         with
+C:\Users\Julio\Documents\TDPV\1 - Cuatri_2\MAVI\Practicas\TP\TP MAVI\TP MAVI\Partida.cpp(74,46): warning C4244:         [
+C:\Users\Julio\Documents\TDPV\1 - Cuatri_2\MAVI\Practicas\TP\TP MAVI\TP MAVI\Partida.cpp(74,46): warning C4244:             T=float
+C:\Users\Julio\Documents\TDPV\1 - Cuatri_2\MAVI\Practicas\TP\TP MAVI\TP MAVI\Partida.cpp(74,46): warning C4244:         ]
+C:\Users\Julio\Documents\TDPV\1 - Cuatri_2\MAVI\Practicas\TP\TP MAVI\TP MAVI\Partida.cpp(74,34): warning C4244: 'argumento': conversión de 'double' a 'T'; posible pérdida de datos
+C:\Users\Julio\Documents\TDPV\1 - Cuatri_2\MAVI\Practicas\TP\TP MAVI\TP MAVI\Partida.cpp(74,34): warning C4244:         with
+C:\Users\Julio\Documents\TDPV\1 - Cuatri_2\MAVI\Practicas\TP\TP MAVI\TP MAVI\Partida.cpp(74,34): warning C4244:         [
+C:\Users\Julio\Documents\TDPV\1 - Cuatri_2\MAVI\Practicas\TP\TP MAVI\TP MAVI\Partida.cpp(74,34): warning C4244:             T=float
+C:\Users\Julio\Documents\TDPV\1 - Cuatri_2\MAVI\Practicas\TP\TP MAVI\TP MAVI\Partida.cpp(74,34): warning C4244:         ]
+  TP MAVI.vcxproj -> C:\Users\Julio\Documents\TDPV\1 - Cuatri_2\MAVI\Practicas\TP\TP MAVI\Debug\TP MAVI.exe
