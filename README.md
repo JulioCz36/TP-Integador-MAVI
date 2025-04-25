@@ -32,5 +32,5 @@ Cuando se termina la partida, se muestra tu **puntaje final**, calculado como:
 ## 👨‍💻 Autor
 
 **JulioCZ**  
-1° Cuatrimestre – Año 2024  
+2° Cuatrimestre – Año 2024  
 Tecnicatura en Diseño y Programación de Videojuegos
