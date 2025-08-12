@@ -1,36 +1,34 @@
-# 🔫 Wild Gang Shooter – TP Integrador MAVI
+# 🔫 Wild Gunman | MAVI Integrative Project
 
-Videojuego desarrollado como trabajo práctico Integrador para la materia **MAVI**. Inspirado en el clásico modo "Gang" del juego **Wild Gunman** (NES).
+Video game developed as the integrative practical project for the **MAVI** course. Inspired by the classic "Gang" mode from the **Wild Gunman** (NES) game.
 
-## 🎯 Objetivo del juego
+## 🎯 Game Objective
 
-Controlás una **mira con el mouse** y tu misión es **eliminar enemigos** que aparecen en pantalla. Pero cuidado: si disparás a un **inocente**, perdés una vida. Solo contás con **3 vidas**.  
-Cuando se termina la partida, se muestra tu **puntaje final**, calculado como:
+You control a **crosshair with the mouse** and your mission is to **eliminate enemies** appearing on the screen. But beware: if you shoot an **innocent**,  you lose a life. You only have **3  lives**.  
+When the game ends, your **final score** is displayed, calculated as:
 
-> `Puntaje = Enemigos abatidos - (Inocentes eliminados × 2)`
+> `Score = Enemies defeated - (Innocents shot × 2)`
 
-## 🕹️ Mecánicas implementadas
+## 🕹️ Implemented Mechanics
 
-- Control de la **mira** con el mouse
-- Disparo con el botón izquierdo
-- Enemigos e inocentes que aparecen **aleatoriamente**
-- Los inocentes se **ocultan** tras un tiempo
-- **HUD** con vidas y puntaje
-- **Pantalla final** con "Game Over" y puntuación
+- Crosshair controlled by mouse
+- Shooting with left mouse button
+- Enemies and innocents appear **randomly**
+- Innocents **hide** after a while
+- HUD displaying lives and score
+- Game Over screen with final score
 
-## 📚 Requisitos del TP cumplidos
+## 📚 Project Requirements Met
 
-- ✅ Estructura basada en **orientación a objetos**
-- ✅ Clases en **archivos separados**
-- ✅ Juego **completo y funcional**
+- ✅ Object-oriented structure
+- ✅ Classes in separate files
+- ✅ Complete and functional game
 
-## 📦 Tecnologías usadas
+## 📦 Technologies Used
 
-- **Lenguaje:** C++
-- **Motor gráfico:** SFML
+- **Language:** C++
+- **Graphics engine:** SFML
 
-## 👨‍💻 Autor
+## 👨‍💻 Author
 
-**JulioCZ**  
-2° Cuatrimestre – Año 2024  
-Tecnicatura en Diseño y Programación de Videojuegos
+**JulioCZ** – Technical Degree in Video Game Design and Programming
